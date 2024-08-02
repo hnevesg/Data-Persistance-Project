@@ -1,5 +1,5 @@
 # Unity
 ## Jr Programmer
-### Data Persistance Project
+### Data Persistence Project
 - Data  persistence between scenes 
 - Data  persistence between sessions 
